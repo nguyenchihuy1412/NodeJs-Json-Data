@@ -1,0 +1,64 @@
+{
+  "slide": [
+    {
+      "title": "For website and video editing",
+      "header": "Videographer’s Portfolio"
+    },
+    {
+      "title": "Awesome website and video editting",
+      "header": "My portfolio"
+    },
+    {
+      "title": "Beautiful video around the world",
+      "header": "Better for Services"
+    }
+  ],
+  "paragraph": [
+    {
+      "icon": "si-1.png",
+      "p": "Whether you’re halfway through the editing process, or you haven’t even started, our post production services can put the finishing touches."
+    },
+    {
+      "icon": "si-2.png",
+      "p": "If you hire a videographer of our team you will get a video professional to make a custom video for your business and, once the project is over."
+    },
+    {
+      "icon": "si-3.png",
+      "p": "Whether you’re halfway through the editing process, or you haven’t even started, our post production services can put the finishing touches."
+    },
+    {
+      "icon": "si-4.png",
+      "p": "If you hire a videographer of our team you will get a video professional to make a custom video for your business and, once the project is over."
+    }
+  ],
+  "video": [
+    {
+      "bg": "portfolio-1.jpg",
+      "source": "https://www.youtube.com/watch?v=64nB-EBj0dA&list=RD64nB-EBj0dA&start_radio=1"
+    },
+    {
+      "bg": "portfolio-2.jpg",
+      "source": "https://www.youtube.com/watch?v=tl3wTBt5rj0"
+    },
+    {
+      "bg": "portfolio-3.jpg",
+      "source": "https://www.youtube.com/watch?v=Eb8fj-jstNo"
+    },
+    {
+      "bg": "portfolio-4.jpg",
+      "source": "https://www.youtube.com/watch?v=ntHG5LCGaxE"
+    },
+    {
+      "bg": "portfolio-5.jpg",
+      "source": "https://www.youtube.com/watch?v=y_6aSG2yfe8"
+    },
+    {
+      "bg": "portfolio-6.jpg",
+      "source": "https://www.youtube.com/watch?v=iwGuiSnr2Qc"
+    },
+    {
+      "bg": "portfolio-7.jpg",
+      "source": "https://www.youtube.com/watch?v=zgUu1xIUkbI"
+    }
+  ]
+}
